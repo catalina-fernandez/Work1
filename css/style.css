@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Dosis:wght@200..800&display=swap');
+
+body{font-family: "DM Sans", sans-serif;}
+
+body{background-color: #F5F5EF;color: #393c39;text-align: justify;}
+
+#CD1 {color:#1f815b}
+#CD2 {color:#dd6e42}
+#CD3 {color:#FDBE13}
+#CD4 {color:#DB3C4D}
+#CD5 {color:#c475d2}
+
+#b1, #b2, #b3 {font-weight:700;}
+
+h1, h2, h3 {font-family: "Dosis", sans-serif;}
+
+h1{text-decoration: underline;}
+
+
